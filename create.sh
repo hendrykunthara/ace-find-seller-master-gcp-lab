@@ -3,7 +3,7 @@
 gcloud config set project ace-demo-2
 
 # Build common service first. HK
-# Build common service first. HK 9 30 2019 update2
+# Build common service first. HK 10 2 2019 update2
 
 cd common/build
 
